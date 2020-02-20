@@ -1,0 +1,14 @@
+https://github.com/KrishnaYadav9807/corejava2.git
+
+KrishnaYadav9807
+Krishna9807#
+
+1.git add com.ascorp.javalangpackage
+
+2.git commit -m "added java lang package"
+
+3.git remote add origin https://github.com/KrishnaYadav9807/hakerrank.git
+
+4.git push -u origin master
+
+https://github.com/KrishnaYadav9807
